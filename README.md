@@ -1,8 +1,11 @@
-## Olá, eu sou o Pedro Italo 👋
-🚀 Desenvolvedor Front-end em Formação
+##Hello, I'm Pedro Italo 👋
 
-- 💼 Estudante de Ciência da computação buscando experiências e desafios no setor de tecnologia.
-- 🌱 Estou aprendendo Front-end
+🚀 Front-end Development Student
+
+  💼 Computer Science student | Early career professional seeking tech challenges.
+
+  🌱 Currently diving into Front-end.
+  
 <div>
   <a href="https://www.linkedin.com/in/pedro-italo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank></a>
 </div>
